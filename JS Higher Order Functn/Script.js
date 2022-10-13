@@ -1,6 +1,7 @@
 
 
 //1. Splice
+
 const foods = ["pizza", "burger", "fingerChips", "donuts", "springRoll"];
 
 const ans1= foods.splice(0,1);
@@ -10,7 +11,6 @@ console.log(foods);
 // Expected output: [burger, fingerShips, donuts]
 
 //2.  Array Splice
-// const food = [pizza, burger, fingerShips, donuts, springRoll];
 
 // const foods = ["pizza", "burger", "fingerChips", "donuts", "springRoll"];
 // foods.splice(2,0,"noodles","icecream");
